@@ -1,0 +1,4499 @@
+Entry 1
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 2
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 3
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 4
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 5
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 6
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 7
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 8
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 9
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 10
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 11
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 12
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 13
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 14
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 15
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 16
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 17
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 18
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 19
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 20
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 21
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 22
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 23
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 24
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 25
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 26
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 27
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 28
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 29
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 30
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 31
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 32
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 33
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 34
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 35
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 36
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 37
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 38
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 39
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 40
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 41
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 42
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 43
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 44
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 45
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 46
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 47
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 48
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 49
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 50
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 51
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 52
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 53
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 54
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 55
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 56
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 57
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 58
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 59
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 60
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 61
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 62
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 63
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 64
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 65
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 66
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 67
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 68
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 69
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 70
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 71
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 72
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 73
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 74
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 75
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 76
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 77
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 78
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 79
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 80
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 81
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 82
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 83
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 84
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 85
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 86
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 87
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 88
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 89
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 90
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 91
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 92
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 93
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 94
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 95
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 96
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 97
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 98
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 99
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 100
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 101
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 102
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 103
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 104
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 105
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 106
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 107
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 108
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 109
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 110
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 111
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 112
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 113
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 114
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 115
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 116
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 117
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 118
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 119
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 120
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 121
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 122
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 123
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 124
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 125
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 126
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 127
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 128
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 129
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 130
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 131
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 132
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 133
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 134
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 135
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 136
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 137
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 138
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 139
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 140
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 141
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 142
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 143
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 144
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 145
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 146
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 147
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 148
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 149
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 150
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 151
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 152
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 153
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 154
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 155
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 156
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 157
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 158
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 159
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 160
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 161
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 162
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 163
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 164
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 165
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 166
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 167
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 168
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 169
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 170
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 171
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 172
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 173
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 174
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 175
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 176
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 177
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 178
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 179
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 180
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 181
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 182
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 183
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 184
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 185
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 186
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 187
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 188
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 189
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 190
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 191
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 192
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 193
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 194
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 195
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 196
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 197
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 198
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 199
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 200
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 201
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 202
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 203
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 204
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 205
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 206
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 207
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 208
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 209
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 210
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 211
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 212
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 213
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 214
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 215
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 216
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 217
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 218
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 219
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 220
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 221
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 222
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 223
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 224
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 225
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 226
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 227
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 228
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 229
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 230
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 231
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 232
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 233
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 234
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 235
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 236
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 237
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 238
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 239
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 240
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 241
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 242
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 243
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 244
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 245
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 246
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 247
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 248
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 249
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 250
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 251
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 252
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 253
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 254
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 255
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 256
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 257
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 258
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 259
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 260
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 261
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 262
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 263
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 264
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 265
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 266
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 267
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 268
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 269
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 270
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 271
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 272
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 273
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 274
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 275
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 276
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 277
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 278
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 279
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 280
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 281
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 282
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 283
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 284
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 285
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 286
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 287
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 288
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 289
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 290
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 291
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 292
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 293
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 294
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 295
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 296
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 297
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 298
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 299
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 300
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 301
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 302
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 303
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 304
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 305
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 306
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 307
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 308
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 309
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 310
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 311
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 312
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 313
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 314
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 315
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 316
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 317
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 318
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 319
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 320
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 321
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 322
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 323
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 324
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 325
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 326
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 327
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 328
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 329
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 330
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 331
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 332
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 333
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 334
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 335
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 336
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 337
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 338
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 339
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 340
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 341
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 342
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 343
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 344
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 345
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 346
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 347
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 348
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 349
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 350
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 351
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 352
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 353
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 354
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 355
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 356
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 357
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 358
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 359
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 360
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 361
+Topic: Artificial Intelligence
+Definition: Artificial Intelligence (AI) is the field of computer science focused on building systems capable of performing tasks that normally require human intelligence.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Artificial Intelligence is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 362
+Topic: Machine Learning
+Definition: Machine Learning is a subset of AI where systems learn patterns from data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Machine Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 363
+Topic: Deep Learning
+Definition: Deep Learning is a subset of Machine Learning that uses neural networks with many layers.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Deep Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 364
+Topic: Neural Network
+Definition: A neural network is a computational model inspired by the human brain.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Neural Network is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 365
+Topic: Supervised Learning
+Definition: Supervised learning trains a model using labelled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Supervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 366
+Topic: Unsupervised Learning
+Definition: Unsupervised learning finds hidden patterns in unlabeled data.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Unsupervised Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 367
+Topic: Reinforcement Learning
+Definition: Reinforcement learning trains agents through rewards and penalties.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Reinforcement Learning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 368
+Topic: Generative AI
+Definition: Generative AI creates new content such as text, images, code or audio.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Generative AI is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 369
+Topic: Transformer
+Definition: A transformer is a neural network architecture based on attention mechanisms.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+GPT and BERT are based on the Transformer architecture.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 370
+Topic: LLM
+Definition: Large Language Models are transformer-based models trained on massive text corpora.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+LLM is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 371
+Topic: Embedding
+Definition: Embeddings convert text into dense numerical vectors.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Sentence embeddings are used for semantic search.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 372
+Topic: Vector Database
+Definition: A vector database stores and searches embeddings efficiently.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Vector Database is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 373
+Topic: RAG
+Definition: Retrieval-Augmented Generation combines retrieval with language generation.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+A chatbot retrieves document chunks from FAISS before answering.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 374
+Topic: Prompt Engineering
+Definition: Prompt engineering is the process of designing effective prompts.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Prompt Engineering is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering
+
+Entry 375
+Topic: Fine-tuning
+Definition: Fine-tuning adapts a pretrained model to a specific task.
+Key Points:
+- Importance in modern AI systems.
+- Frequently used in real-world applications.
+- Common interview topic.
+Example:
+Fine-tuning is widely applied in research and industry.
+Related Concepts:
+AI, ML, Deep Learning, Neural Networks, LLMs, Vector Databases, Prompt Engineering

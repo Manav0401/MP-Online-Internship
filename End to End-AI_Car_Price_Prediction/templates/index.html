@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Predictor</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/tom-select/dist/css/tom-select.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>Car Price Predictor</h1>
+        <p>Know Your Car's Resale Value Instantly</p>
+    </div>
+
+    <div class="card">
+
+        <form action="/predict" method="POST">
+
+            <div class="grid">
+
+                <!-- Brand -->
+
+                <div class="input-group">
+
+                    <label for="brand">Brand</label>
+
+                    <select
+                        id="brand"
+                        name="brand"
+                        data-selected="{{ selected_brand }}"
+                        required>
+
+                        <option value=""></option>
+
+                        {% for brand in brands %}
+                        <option value="{{ brand }}"
+                            {% if brand == selected_brand %}selected{% endif %}>
+                            {{ brand }}
+                        </option>
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+                <!-- Model -->
+
+                <div class="input-group">
+
+                    <label for="model">Model</label>
+
+                    <select
+                        id="model"
+                        name="model"
+                        data-selected="{{ selected_model }}"
+                        required>
+
+                        <option value=""></option>
+
+                    </select>
+
+                </div>
+
+                <!-- Manufacturing Year -->
+
+                <div class="input-group">
+
+                    <label for="manufacturing_year">Manufacturing Year</label>
+
+                    <input
+                        type="number"
+                        id="manufacturing_year"
+                        name="manufacturing_year"
+                        min="1990"
+                        max="2026"
+                        value="{{ manufacturing_year }}"
+                        required>
+
+                </div>
+
+                <!-- Kilometers Driven -->
+
+                <div class="input-group">
+
+                    <label for="km_driven">Kilometers Driven</label>
+
+                    <input
+                        type="number"
+                        id="km_driven"
+                        name="km_driven"
+                        min="0"
+                        value="{{ km_driven }}"
+                        required>
+
+                </div>
+
+                <!-- Fuel Type -->
+
+                <div class="input-group">
+
+                    <label for="fuel_type">Fuel Type</label>
+
+                    <select
+                        id="fuel_type"
+                        name="fuel_type"
+                        required>
+
+                        {% for fuel in fuel_types %}
+                        <option value="{{ fuel }}"
+                            {% if fuel == selected_fuel %}selected{% endif %}>
+                            {{ fuel }}
+                        </option>
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+                <!-- Transmission -->
+
+                <div class="input-group">
+
+                    <label for="transmission_type">Transmission</label>
+
+                    <select
+                        id="transmission_type"
+                        name="transmission_type"
+                        required>
+
+                        {% for transmission in transmission_types %}
+                        <option value="{{ transmission }}"
+                            {% if transmission == selected_transmission %}selected{% endif %}>
+                            {{ transmission }}
+                        </option>
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+                <!-- Seller Type -->
+
+                <div class="input-group">
+
+                    <label for="seller_type">Seller Type</label>
+
+                    <select
+                        id="seller_type"
+                        name="seller_type"
+                        required>
+
+                        {% for seller in seller_types %}
+                        <option value="{{ seller }}"
+                            {% if seller == selected_seller %}selected{% endif %}>
+                            {{ seller }}
+                        </option>
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+                                <!-- Mileage -->
+
+                <div class="input-group">
+
+                    <label for="mileage">Mileage (km/l)</label>
+
+                    <input
+                        type="number"
+                        step="0.1"
+                        id="mileage"
+                        name="mileage"
+                        value="{{ mileage }}"
+                        readonly>
+
+                </div>
+
+                <!-- Engine -->
+
+                <div class="input-group">
+
+                    <label for="engine">Engine (CC)</label>
+
+                    <input
+                        type="number"
+                        step="0.1"
+                        id="engine"
+                        name="engine"
+                        value="{{ engine }}"
+                        readonly>
+
+                </div>
+
+                <!-- Max Power -->
+
+                <div class="input-group">
+
+                    <label for="max_power">Max Power (bhp)</label>
+
+                    <input
+                        type="number"
+                        step="0.1"
+                        id="max_power"
+                        name="max_power"
+                        value="{{ max_power }}"
+                        readonly>
+
+                </div>
+
+                <!-- Seats -->
+
+                <div class="input-group">
+
+                    <label for="seats">Seats</label>
+
+                    <input
+                        type="number"
+                        id="seats"
+                        name="seats"
+                        value="{{ seats }}"
+                        readonly>
+
+                </div>
+
+            </div>
+
+            <button type="submit" class="predict-btn">
+                Predict Price
+            </button>
+
+        </form>
+
+    </div>
+
+    {% if prediction %}
+
+    <div class="result-card">
+
+        <h2>Estimated Selling Price</h2>
+
+        <h1>{{ prediction }}</h1>
+
+    </div>
+
+    {% endif %}
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/tom-select/dist/js/tom-select.complete.min.js"></script>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

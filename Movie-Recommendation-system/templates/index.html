@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Movie Recommendation System</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="overlay">
+
+<h1>Movie Recommendation</h1>
+
+<p>Discover movies you'll love.</p>
+
+<form action="/recommend" method="POST">
+
+<input
+list="movies"
+name="movie"
+placeholder="Search for a movie..."
+required>
+
+<datalist id="movies">
+
+{% for movie in movie_list %}
+
+<option value="{{ movie }}">
+
+{% endfor %}
+
+</datalist>
+
+<button>
+
+Recommend
+
+</button>
+
+</form>
+
+</div>
+
+</body>
+
+</html>

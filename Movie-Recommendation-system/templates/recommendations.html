@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Recommendations</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="navbar">
+
+        <a href="/" class="logo">
+            🎬 Movie Recommendation
+        </a>
+
+        <a href="/" class="back">
+            🔍 Search Again
+        </a>
+
+    </div>
+
+    <div class="heading">
+
+        <h1>Because You Liked</h1>
+
+        <h2>{{ movie }}</h2>
+
+    </div>
+
+    <div class="movies">
+
+        {% for movie in recommendations %}
+
+        <div class="card">
+
+            <div class="poster">
+
+                🎬
+
+            </div>
+
+            <h3>{{ movie.title }}</h3>
+
+            <div class="info">
+
+                <p>⭐ {{ "%.2f"|format(movie.average_rating) }}</p>
+
+                <p>👥 {{ movie.number_of_ratings }} Ratings</p>
+
+                <p>🎯 Similarity {{ "%.2f"|format(movie.similarity) }}</p>
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

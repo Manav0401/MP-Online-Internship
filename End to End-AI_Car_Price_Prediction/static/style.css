@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.header h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+.header p {
+    color: #cbd5e1;
+    font-size: 18px;
+}
+
+.card {
+    background: white;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.25);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group label {
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #334155;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 14px;
+    border: 1px solid #cbd5e1;
+    border-radius: 10px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 10px rgba(37, 99, 235, 0.2);
+}
+
+input[readonly] {
+    background: #f1f5f9;
+    cursor: not-allowed;
+}
+
+/* ---------- Tom Select ---------- */
+
+.ts-wrapper {
+    width: 100%;
+}
+
+.ts-control {
+    min-height: 52px;
+    height: 52px;
+    padding: 0 14px !important;
+
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap !important;
+
+    border: 1px solid #cbd5e1 !important;
+    border-radius: 10px !important;
+
+    box-shadow: none !important;
+}
+
+.ts-control input {
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 1 !important;
+}
+
+.ts-control > div.item {
+    white-space: nowrap;
+}
+
+.ts-control.focus {
+    border-color: #2563eb !important;
+    box-shadow: 0 0 10px rgba(37, 99, 235, 0.2) !important;
+}
+
+.ts-dropdown {
+    border-radius: 10px;
+    border: 1px solid #cbd5e1;
+    overflow: hidden;
+}
+
+.ts-dropdown .option {
+    padding: 12px 14px;
+    font-size: 15px;
+}
+
+.ts-dropdown .option.active {
+    background: #2563eb;
+    color: white;
+}
+
+.ts-dropdown .create {
+    display: none;
+}
+
+/* ---------- Button ---------- */
+
+.predict-btn {
+    width: 100%;
+    margin-top: 35px;
+    padding: 16px;
+    border: none;
+    border-radius: 12px;
+    background: #2563eb;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.predict-btn:hover {
+    background: #1d4ed8;
+    transform: translateY(-2px);
+}
+
+.predict-btn:active {
+    transform: scale(0.98);
+}
+
+/* ---------- Result ---------- */
+
+.result-card {
+    margin-top: 30px;
+    background: white;
+    border-radius: 20px;
+    padding: 35px;
+    text-align: center;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+}
+
+.result-card h2 {
+    color: #475569;
+    margin-bottom: 15px;
+}
+
+.result-card h1 {
+    color: #16a34a;
+    font-size: 48px;
+    word-break: break-word;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 900px) {
+
+    body {
+        padding: 20px;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .card {
+        padding: 25px;
+    }
+
+    .header h1 {
+        font-size: 32px;
+    }
+
+    .header p {
+        font-size: 16px;
+    }
+
+    .result-card {
+        padding: 25px;
+    }
+
+    .result-card h1 {
+        font-size: 36px;
+    }
+}
